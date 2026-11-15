@@ -1,0 +1,23 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+
+# Compiled object files
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Runtime data files
+casex_history.dat
+
+# IDE and Editor files
+.vscode/
+.vs/
+*.swp
+*.swo
+.DS_Store
